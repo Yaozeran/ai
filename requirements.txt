@@ -1,0 +1,7 @@
+# numpy: pip install numpy
+numpy==2.4.2
+
+# pytorch: pip install torch torchvision torchaudio
+torch==2.10.0
+torchaudio==2.10.0
+torchvision==0.25.0
